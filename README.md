@@ -1,2 +1,9 @@
-# Cybersecurity Practices
-Study between computer science students vs non computer science  practitioners 
+
+# Cybersecurity Practices Among Computer Science Students vs non-cybersecurity practiceners 
+# Background description
+
+Cybersecurity has become one of the most critical challenges in modern society due to the increasing reliance on digital systems for communication, finance, healthcare, and education. Cyber-attacks are intended to harm individuals or organizations by compromising sensitive information, disrupting systems, or enabling financial theft [1]. These attacks may be targeted, such as spear-phishing campaigns directed at specific organizations, or untargeted, such as mass phishing emails designed to infect as many systems as possible.
+Cybersecurity is defined as a set of policies, tools, practices, training, and technologies designed to protect cyberspace, organizations, and users from digital threats [5]. Beyond technical defenses, researchers emphasize the importance of cybersecurity culture, which includes individuals’ knowledge, beliefs, attitudes, and behaviors toward security practices [5]. A strong cybersecurity culture influences how individuals manage passwords, recognize phishing attempts, and protect personal information.
+Despite being technologically proficient, many young adults lack sufficient knowledge of cyber threats such as phishing, identity theft, and malware [4]. Research indicates that individuals often engage in risky behaviors, including using weak passwords or reusing credentials across multiple platforms [2]. Since passwords remain the default authentication mechanism for most online systems, poor password practices create significant vulnerabilities [2].
+Educational interventions have been proposed to improve cybersecurity awareness. Game-based learning platforms and interactive educational campaigns have shown promise in improving retention and engagement in cybersecurity training [3]. As mobile device usage continues to grow globally, cybersecurity best practices must also adapt to evolving technologies and user behaviors [5]. The increasing number of mobile users—projected to reach billions worldwide—further amplifies the need for stronger individual cybersecurity awareness [5].
+

@@ -1,5 +1,5 @@
 
-# Cybersecurity Practices Among Computer Science Students vs non-cybersecurity practiceners 
+# Cybersecurity Practices Among Computer Science Students vs non-cybersecurity Students
 # Background description
 
 Cybersecurity has become one of the most critical challenges in modern society due to the increasing reliance on digital systems for communication, finance, healthcare, and education. Cyber-attacks are intended to harm individuals or organizations by compromising sensitive information, disrupting systems, or enabling financial theft [1]. These attacks may be targeted, such as spear-phishing campaigns directed at specific organizations, or untargeted, such as mass phishing emails designed to infect as many systems as possible.
